@@ -6,7 +6,7 @@ This package implements the methodology for the Expectation-Maximization (EM) al
 
 If you use this package, please cite:
 
-R. Maitra. (2013) "On the expectation-maximization algorithm for Rice-Rayleigh mixtures with application to estimating the noise parameter in magnitude MR datasets." *Sankhyā: The Indian Journal of Statistics, Series B,* 75(2):293–318. DOI: 10.1007/s13571-012-0055-y. URL: <https://link.springer.com/article/10.1007/s13571-011-0016-x>
+R. Maitra. (2013) "On the expectation-maximization algorithm for Rice-Rayleigh mixtures with application to estimating the noise parameter in magnitude MR datasets." *Sankhyā: The Indian Journal of Statistics, Series B,* 75(2):293–318. DOI: 10.1007/s13571-012-0055-y. URL: <https://link.springer.com/article/10.1007/s13571-012-0055-y>
 
 #### Requirements
 
@@ -18,4 +18,4 @@ This will create a bunch of executables for the methods evaluated in Maitra (201
 
 For details, please see:
 
-R. Maitra. (2013) "On the expectation-maximization algorithm for Rice-Rayleigh mixtures with application to estimating the noise parameter in magnitude MR datasets." *Sankhyā: The Indian Journal of Statistics, Series B,* 75(2):293–318. DOI: 10.1007/s13571-012-0055-y. URL: <https://link.springer.com/article/10.1007/s13571-011-0016-x>
+R. Maitra. (2013) "On the expectation-maximization algorithm for Rice-Rayleigh mixtures with application to estimating the noise parameter in magnitude MR datasets." *Sankhyā: The Indian Journal of Statistics, Series B,* 75(2):293–318. DOI: 10.1007/s13571-012-0055-y. URL: <https://link.springer.com/article/10.1007/s13571-012-0055-y>
